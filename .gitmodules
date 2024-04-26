@@ -1,0 +1,6 @@
+[submodule "Scraper-Frontend"]
+	path = Scraper-Frontend
+	url = ./Scraper-Frontend
+[submodule "Scraper-Backend"]
+	path = Scraper-Backend
+	url = ./Scraper-Backend
